@@ -1,0 +1,14 @@
+# Carpetas descomprimidas
+20news-bydate-test/
+20news-bydate-train/
+mdsd/
+
+# Ambiente virtual
+venv/
+
+# Archivos comprimidos
+*.tar.gz
+*.zip
+encoders/data_splits/
+*.pt
+encoders/checkpoints/
